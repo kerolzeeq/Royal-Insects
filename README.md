@@ -4,7 +4,7 @@ Available on the Google Play Store now!
 - https://play.google.com/store/apps/details?id=com.Zekeleton.RoyalInsects
 
 
-#Game Features
+# Game Features
 - Start playing solo as a dragonfly!
 ![alt text](https://github.com/kerolzeeq/Royal-Insects/blob/main/tapanywheretoflap.jpg?raw=true)
 
